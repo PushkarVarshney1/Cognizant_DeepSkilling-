@@ -110,4 +110,4 @@ This module focuses on software testing and logging using industry-standard fram
 
 ## Author
 
-Varshini Keerthi
+Pushkar Varshney
