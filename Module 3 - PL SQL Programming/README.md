@@ -119,6 +119,4 @@ Since MySQL does not support Oracle Packages, package functionality was implemen
 
 ## Author
 
-**Varshini Keerthi**
-
-Github : https://github.com/Varshini-0212
+**Pushkar Varshney**
